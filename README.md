@@ -1,6 +1,7 @@
 # ToDoAPI
 
 Small RESTfull API on Django using PostgreSQL.
+
 Installation:
 --clone repo
 --create venv
